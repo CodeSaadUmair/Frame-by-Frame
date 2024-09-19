@@ -15,7 +15,7 @@ The project focuses on simplicity and elegance, with animated text that slides i
 
 ## 🚀 Live Demo
 
-[Explore the gallery here!](https://SaadUmair.github.io/Frame-by-Frame/).
+[Explore the gallery here!](https://codesaadumair.github.io/Frame-by-Frame/).
 
 ## ⚙️ Setup Instructions
 
